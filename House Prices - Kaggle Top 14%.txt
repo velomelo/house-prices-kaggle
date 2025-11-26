@@ -1,5 +1,5 @@
 House Prices - Kaggle Top 14% (Score: 0.12870)
-Nama: Dhiya Musaffa | JLPT N3 
+Nama: Dhiya Musaffa | JLPT N2
 
 Hasil
 - Public Score: 0.12870 → Top ~14% - Model: XGBoost Regressor + Feature Engineering
@@ -20,7 +20,8 @@ Link penting
 XGBoostを使用し、特徴量エンジニアリングを自作。  
 日本でのデータサイエンティスト就職を目指してポートフォリオとして公開しています。
 
-JLPT N3保有 | 現在Kaggleを毎日勉強中
+JLPT N2保有 | 現在Kaggleを毎日勉強中
 連絡先: dmusaffa@gmail.com 
+
 
 よろしくお願いします！🙇‍♂️
